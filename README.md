@@ -1,0 +1,1 @@
+# Yandex.Prilavok_API_project_ManualTest
